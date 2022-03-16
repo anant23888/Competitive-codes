@@ -54,26 +54,8 @@ double eps = 1e-12;
  
 
 void solve(){
-    string s;
-    cin>>s;
-    int l=s.length();
-    int k=0;v32 v;
-    for(int i=1;i<l-1;i++){
-        if((s[i]==s[0])||(s[i]==s[l-1])) {
-        k=0;
-        }
-        else {
-            k++;
-            v.push_back(k);
-        }
-    }
-    // for(int i=0;i<v.size();i++){
-    //     cout<<v[i]<<" ";
-    // }
-    if(v.size()!=0)
-    cout<<*max_element(v.begin(),v.end())<<ln;
-    else
-    cout<<-1<<endl;
+    int n;string s;
+    cin>>n;cin>>s;
 }
 int main()
 {

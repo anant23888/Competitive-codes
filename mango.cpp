@@ -1,0 +1,2 @@
+db.listingsAndReviews.find({"$expr":{"$and":[{"$gt":["$accommodates",6]},{"$eq":["$number_of_reviews",50]}}]}).count()
+db.listingsAndReviews.find({"$and":[{"property_type":"House"},{"amenities":"Changing table"}]}).count()
