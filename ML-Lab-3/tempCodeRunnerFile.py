@@ -1,0 +1,6 @@
+print("length of test_data case\n",len(arr1))
+# print("column length",len(arr2[0]))  
+# print(arr2[6666][192]) 
+# print("length of training_data case\n",len(arr2))   
+# print("Test data\n",arr1)
+# print("Training_data data\n",arr2)

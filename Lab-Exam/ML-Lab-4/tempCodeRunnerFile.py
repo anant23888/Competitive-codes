@@ -1,0 +1,1 @@
+content=[eval(i) for i in content1]

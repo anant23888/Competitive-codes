@@ -1,0 +1,1 @@
+plt.scatter(rad_arr,y,color="red")

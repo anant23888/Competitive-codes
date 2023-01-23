@@ -1,0 +1,1 @@
+{"name":"Local: Abhay","url":"c:\\Users\\anant\\OneDrive\\Desktop\\PROGRAMS\\Abhay.cpp","tests":[{"id":1653051055099,"input":"2\n5\n11011\n7\n0111010","output":"0\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\anant\\OneDrive\\Desktop\\PROGRAMS\\Abhay.cpp","group":"local","local":true}

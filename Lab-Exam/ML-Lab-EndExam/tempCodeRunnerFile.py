@@ -1,0 +1,1 @@
+plt.plot(rad_arr_nl, Y2, color='green')
